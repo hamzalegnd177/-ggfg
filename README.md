@@ -1,1 +1,1 @@
-https://img.shields.io/badge/24_/_7-Host-green
+https://img.shields.io/badge/any_text-you_like-blue
