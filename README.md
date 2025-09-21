@@ -1,1 +1,1 @@
-https://img.shields.io/badge/:any_text-you_like-blue
+![Status](https://img.shields.io/badge/status-active-brightgreen)
